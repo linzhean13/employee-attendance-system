@@ -58,13 +58,13 @@ EmployeeAttendance/
       <b>1. 員工打卡前台 (Form1)</b><br>
       員工可選擇姓名進行上下班打卡，下方清單即時顯示最新出勤狀態。系統內建邏輯防止重複打卡錯誤。
       <br><br>
-      <img src="請貼上你的前台截圖網址" width="100%">
+      <img width="1178" height="889" alt="image" src="https://github.com/user-attachments/assets/2eceb826-4a63-4645-b1b0-a9f423355fa7" />
     </td>
     <td width="50%" valign="top">
       <b>2. 管理員後台 (Form2)</b><br>
       提供指定日期區間與特定員工的差勤過濾查詢，並支援右側的人事資料管理（新增/刪除員工）。
       <br><br>
-      <img src="請貼上你的後台截圖網址" width="100%">
+      <img width="1478" height="1114" alt="image" src="https://github.com/user-attachments/assets/61d783ff-fb68-4622-b36e-f7f4c7c45bdf" />
     </td>
   </tr>
 </table>
